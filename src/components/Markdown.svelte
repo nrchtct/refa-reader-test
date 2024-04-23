@@ -159,7 +159,7 @@
 
 </script>
 
-<a href="../" class="index" rel="noopener noreferrer"> ← Index </a>
+<a href="/" class="index" rel="noopener noreferrer"> ← Index </a>
 <!-- {#if data.meta?.cover}
 	<img class="cover" src={data.meta.cover} alt={data.meta.title} />
 {/if} -->
