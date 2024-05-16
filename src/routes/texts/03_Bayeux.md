@@ -1,11 +1,11 @@
 ---
 title: Der Teppich von Bayeux
 date: "2024-14-05"
-color: "red"
+color: "purple"
 author: Mara
 isPublic: true
-lang: en
-description: "nur innerhalb der anführungszeichen schreiben für eine Beschreibung"
+lang: de
+description: "Der Teppich von Bayeux - eine Visualisierung zeitgenössischer Ereignisse"
 cover: "https://uclab.fh-potsdam.de/refa-catalog/files/large/bbddd54655955eb994e2db8dfc57ef9c85c2cb18.jpg"
 ---
 
